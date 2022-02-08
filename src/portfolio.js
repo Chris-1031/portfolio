@@ -10,7 +10,7 @@ const about = {
   role: 'Web Developer',
   description:
     'Initially in the health sector, I chose to become a web and mobile developer via the Wild Code School training. Teamwork, adapting to any situation, managing stress and patience are qualities acquired during my past professional experiences.',
-    // resume: '',
+    resume: 'https://drive.google.com/file/d/10HL2Qou7f5E89W8LSK36sxhNyoBZwIel/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/cristi-mihaes-607b02217/',
     github: 'https://github.com/Chris-1031',
@@ -60,7 +60,10 @@ const skills = [
   'GitHub',
   'MySql',
   'Express',
-  'Prisma'
+  'Prisma',
+  'NodeJs',
+  'Scrum',
+  'Figma'
 ]
 
 const contact = {
